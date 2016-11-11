@@ -6,7 +6,7 @@ Deutsche Vorlesung über Rust an der Universität Osnabrück, Wintersemester 201
 
 Die Aufzeichnungen gibt es oft in zwei Versionen: 
 
-- nur das Beamerbild, aber in hoher 1080p-Qualität, mit der Aufnahme vom Notebook-Mikrofon
+- nur das Beamerbild, aber in hoher 1080p-Qualität, mit der Aufnahme vom Notebook-Mikrofon ([YouTube Playlist](https://www.youtube.com/playlist?list=PL0Ur-09iGhpwMbNiVTBeHmIjs0GuIXhNg))
 - Beamerbild und Dozent (mit Tafel) und Umhängemikrofon (Aufnahme schlägt hin und wieder fehl)
 
 | Datum  | Thema | Nur Beamer | Dozent und Beamer |
