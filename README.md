@@ -17,6 +17,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 02.11. | [Strings][s4], [Git (Teil 2)][s5] | [YouTube](https://www.youtube.com/watch?v=Hiez8zq3yNg) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=15898062-d625-48f3-9bd4-518710271568) |
 | 07.11. | [Structs, impl-Block und Methodensyntax][s6], [Diverses (Vec)][s7] | [YouTube](https://www.youtube.com/watch?v=EGogoHQUeLE) | - |
 | 09.11. | [Diverses (Konstanten, Tuple-Struct, Match, Pattern)][s7], [Enums](s8) | [YouTube](https://www.youtube.com/watch?v=PHEYNPtWIbs) | - |
+| 14.11. | Nachbesprechung Aufgaben, [Error Handling][s9] | [Unvollständig (wird noch verbessert!)](https://youtu.be/XfH500BwdT4) | - |
 
 
 
@@ -30,3 +31,4 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [s6]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/6-Structs-Methoden.pdf
 [s7]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/7-Vec-Konstanten-TypeAlias-TupleStruct-Match-Pattern.pdf
 [s8]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/8-Enums-Option-Result.pdf
+[s9]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/9-Error-Handling-unvollst%C3%A4ndig.pdf
