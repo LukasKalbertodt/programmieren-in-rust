@@ -17,7 +17,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 02.11. | [Strings][s4], [Git (Teil 2)][s5] | [YouTube](https://www.youtube.com/watch?v=Hiez8zq3yNg) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=15898062-d625-48f3-9bd4-518710271568) |
 | 07.11. | [Structs, impl-Block und Methodensyntax][s6], [Diverses (Vec)][s7] | [YouTube](https://www.youtube.com/watch?v=EGogoHQUeLE) | - |
 | 09.11. | [Diverses (Konstanten, Tuple-Struct, Match, Pattern)][s7], [Enums](s8) | [YouTube](https://www.youtube.com/watch?v=PHEYNPtWIbs) | - |
-| 14.11. | Nachbesprechung Aufgaben, [Error Handling][s9] | [Unvollständig (wird noch verbessert!)](https://youtu.be/XfH500BwdT4) | - |
+| 14.11. | Nachbesprechung Aufgaben, [Error Handling][s9] | [Unvollständig (wird noch verbessert!)](https://youtu.be/XfH500BwdT4) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=2efa047b-8c2a-4545-bd6b-3c36d208f33f) |
 
 
 
