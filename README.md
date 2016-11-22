@@ -22,16 +22,16 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 21.11. | [Nachbesprechung Aufgaben][t4], [Module und `use`][s10] | [YouTube](https://youtu.be/04dpIX5njy8) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=96da9ffc-91eb-4d90-b89b-11696580e084) |
 
 
-[s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/0-Warum-Rust.pdf
-[s1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/1-Grundlagen.pdf
-[s2]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/2-Git-GitHub-Rust-Environment.pdf
-[s3]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/3-Ownership-System.pdf
-[s4]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/4-Strings.pdf
-[s5]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/5-Git-Teil-2.pdf
-[s6]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/6-Structs-Methoden.pdf
-[s7]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/7-Vec-Konstanten-TypeAlias-TupleStruct-Match-Pattern.pdf
-[s8]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/8-Enums-Option-Result.pdf
-[s9]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/9-Error-Handling.pdf
+[s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
+[s1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/01-Grundlagen.pdf
+[s2]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/02-Git-GitHub-Rust-Environment.pdf
+[s3]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/03-Ownership-System.pdf
+[s4]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/04-Strings.pdf
+[s5]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/05-Git-Teil-2.pdf
+[s6]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/06-Structs-Methoden.pdf
+[s7]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/07-Vec-Konstanten-TypeAlias-TupleStruct-Match-Pattern.pdf
+[s8]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/08-Enums-Option-Result.pdf
+[s9]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/09-Error-Handling.pdf
 [s10]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/10-Module-Crates-Cargo-unvollst%C3%A4ndig.pdf
 
 [m1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tree.rs
