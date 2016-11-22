@@ -17,9 +17,9 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 02.11. | [Strings][s4], [Git (Teil 2)][s5] | [YouTube](https://www.youtube.com/watch?v=Hiez8zq3yNg) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=15898062-d625-48f3-9bd4-518710271568) |
 | 07.11. | [Structs, impl-Block und Methodensyntax][s6], [Diverses (Vec)][s7] | [YouTube](https://www.youtube.com/watch?v=EGogoHQUeLE) | - |
 | 09.11. | [Diverses (Konstanten, Tuple-Struct, Match, Pattern)][s7], [Enums](s8) | [YouTube](https://www.youtube.com/watch?v=PHEYNPtWIbs) | - |
-| 14.11. | [Nachbesprechung Aufgaben][t3], [Error Handling][s9] | [YouTube](https://www.youtube.com/watch?v=YYb0fIELE1Q) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=2efa047b-8c2a-4545-bd6b-3c36d208f33f) |
-| 16.11. | [Error Handling][s9], [`tree.rs`-Beispiel][m1] | [YouTube](https://youtu.be/lJzYi5TqtEY) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=1cac1644-d054-4fce-b59b-6214730abf19) |
-| 21.11. | [Nachbesprechung Aufgaben][t4], [Module und `use`][s10] | [YouTube](https://youtu.be/04dpIX5njy8) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=96da9ffc-91eb-4d90-b89b-11696580e084) |
+| 14.11. | [*Nachbesprechung Aufgaben*][t3], [Error Handling][s9] | [YouTube](https://www.youtube.com/watch?v=YYb0fIELE1Q) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=2efa047b-8c2a-4545-bd6b-3c36d208f33f) |
+| 16.11. | [Error Handling][s9], [*`tree.rs`-Beispiel*][m1] | [YouTube](https://youtu.be/lJzYi5TqtEY) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=1cac1644-d054-4fce-b59b-6214730abf19) |
+| 21.11. | [*Nachbesprechung Aufgaben*][t4], [Module und `use`][s10] | [YouTube](https://youtu.be/04dpIX5njy8) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=96da9ffc-91eb-4d90-b89b-11696580e084) |
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
