@@ -19,7 +19,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 09.11. | [Diverses (Konstanten, Tuple-Struct, Match, Pattern)][s7], [Enums](s8) | [YouTube](https://www.youtube.com/watch?v=PHEYNPtWIbs) | - |
 | 14.11. | [Nachbesprechung Aufgaben][t3], [Error Handling][s9] | [YouTube](https://www.youtube.com/watch?v=YYb0fIELE1Q) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=2efa047b-8c2a-4545-bd6b-3c36d208f33f) |
 | 16.11. | [Error Handling][s9], [`tree.rs`-Beispiel][m1] | [YouTube](https://youtu.be/lJzYi5TqtEY) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=1cac1644-d054-4fce-b59b-6214730abf19) |
-
+| 21.11. | [Nachbesprechung Aufgaben][t4], [Module und `use`][s10] | -  | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=96da9ffc-91eb-4d90-b89b-11696580e084) |
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/0-Warum-Rust.pdf
@@ -32,7 +32,9 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [s7]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/7-Vec-Konstanten-TypeAlias-TupleStruct-Match-Pattern.pdf
 [s8]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/8-Enums-Option-Result.pdf
 [s9]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/9-Error-Handling.pdf
+[s10]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/10-Module-Crates-Cargo-unvollst%C3%A4ndig.pdf
 
 [m1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tree.rs
 
 [t3]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet3
+[t4]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet4
