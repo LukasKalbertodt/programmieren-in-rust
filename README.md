@@ -4,7 +4,7 @@ Deutsche Vorlesung über Rust an der Universität Osnabrück, Wintersemester 201
 
 ## Vorlesungsaufzeichnungen
 
-Die Aufzeichnungen gibt es oft in zwei Versionen: 
+Die Aufzeichnungen gibt es oft in zwei Versionen:
 
 - nur das Beamerbild, aber in hoher 1080p-Qualität, mit der Aufnahme vom Notebook-Mikrofon ([YouTube Playlist](https://www.youtube.com/playlist?list=PL0Ur-09iGhpwMbNiVTBeHmIjs0GuIXhNg))
 - Beamerbild und Dozent (mit Tafel) und Umhängemikrofon (Aufnahme schlägt hin und wieder fehl)
@@ -19,7 +19,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 09.11. | [Diverses (Konstanten, Tuple-Struct, Match, Pattern)][s7], [Enums](s8) | [YouTube](https://www.youtube.com/watch?v=PHEYNPtWIbs) | - |
 | 14.11. | [Nachbesprechung Aufgaben][t3], [Error Handling][s9] | [YouTube](https://www.youtube.com/watch?v=YYb0fIELE1Q) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=2efa047b-8c2a-4545-bd6b-3c36d208f33f) |
 | 16.11. | [Error Handling][s9], [`tree.rs`-Beispiel][m1] | [YouTube](https://youtu.be/lJzYi5TqtEY) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=1cac1644-d054-4fce-b59b-6214730abf19) |
-| 21.11. | [Nachbesprechung Aufgaben][t4], [Module und `use`][s10] | -  | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=96da9ffc-91eb-4d90-b89b-11696580e084) |
+| 21.11. | [Nachbesprechung Aufgaben][t4], [Module und `use`][s10] | [YouTube](https://youtu.be/04dpIX5njy8) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=96da9ffc-91eb-4d90-b89b-11696580e084) |
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/0-Warum-Rust.pdf
