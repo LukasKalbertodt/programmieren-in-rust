@@ -21,6 +21,8 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 16.11. | [Error Handling][s9], [*`tree.rs`-Beispiel*][m1] | [YouTube](https://youtu.be/lJzYi5TqtEY) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=1cac1644-d054-4fce-b59b-6214730abf19) |
 | 21.11. | [*Nachbesprechung Aufgaben*][t4], [Module und `use`][s10] | [YouTube](https://youtu.be/04dpIX5njy8) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=96da9ffc-91eb-4d90-b89b-11696580e084) |
 | 23.11. | [Module, Crates und Cargo][s10], *Farbiger Calculator* | [YouTube](https://youtu.be/mpfAaSVTe78) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=bac86875-bbeb-42dc-9970-55af51c9f017) |
+| 28.11. | [Generics und Traits][s11] | - | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=7859a587-aa3c-470e-8f17-34d62dc66984
+) |
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
@@ -34,6 +36,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [s8]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/08-Enums-Option-Result.pdf
 [s9]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/09-Error-Handling.pdf
 [s10]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/10-Module-Crates-Cargo.pdf
+[s11]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/11-Generic-Traits-unvollst%C3%A4ndig.pdf
 
 [m1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tree.rs
 
