@@ -59,7 +59,7 @@ Wie eine schnelle Suche auf [crates.io](https://crates.io) zeigt, gibt es
 folgende Möglichkeiten:
 
 - [`term`](https://crates.io/crates/term): Platform**un**abhängige Library,
-  allerdings recht *low-level*, also aufwendiger zu bedienen.
+  allerdings recht *low-level*, also aufwändiger zu bedienen.
 - [`ansi_term`](https://crates.io/crates/ansi_term): Plattform**abhängige**
   Library, die nur für Ansi-Terminals funktioniert.
 - [`term-painter`](https://crates.io/crates/term-painter): Diese Library ist
