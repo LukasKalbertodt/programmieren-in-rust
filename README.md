@@ -22,7 +22,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 21.11. | [*Nachbesprechung Aufgaben*][t4], [Module und `use`][s10] | [YouTube](https://youtu.be/04dpIX5njy8) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=96da9ffc-91eb-4d90-b89b-11696580e084) |
 | 23.11. | [Module, Crates und Cargo][s10], *Farbiger Calculator* | [YouTube](https://youtu.be/mpfAaSVTe78) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=bac86875-bbeb-42dc-9970-55af51c9f017) |
 | 28.11. | [Generics und Traits][s11] | - | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=7859a587-aa3c-470e-8f17-34d62dc66984) |
-| 30.11. | [Generics und Traits][s11], [*Generic `read` Beispiel*][m2] | [YouTube](https://www.youtube.com/watch?v=QUWfNqC-7nI) | tbd |
+| 30.11. | [Generics und Traits][s11], [*Generic `read` Beispiel*][m2] | [YouTube](https://www.youtube.com/watch?v=QUWfNqC-7nI) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=2c961a8f-e86e-4335-9a6f-90e8a6d435f5) |
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
