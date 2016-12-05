@@ -1,0 +1,7 @@
+[package]
+name = "sol2"
+version = "0.1.0"
+authors = ["Lukas Kalbertodt <lukas.kalbertodt@gmail.com>"]
+
+[dependencies]
+num-traits = "0.1"
