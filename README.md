@@ -24,6 +24,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 28.11. | [Generics und Traits][s11] | - | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=7859a587-aa3c-470e-8f17-34d62dc66984) |
 | 30.11. | [Generics und Traits][s11], [*Generic `read` Beispiel*][m2] | [YouTube](https://www.youtube.com/watch?v=QUWfNqC-7nI) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=2c961a8f-e86e-4335-9a6f-90e8a6d435f5) |
 | 05.12. | [*Nachbesprechung Aufgaben*][t6], [Iteratoren und Closures][s11] | [YouTube](https://youtu.be/YnYKzpmMv40) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=e4db0cac-c233-4ae7-9c62-5cd1d6e2ab16) |
+| 07.12. | [Iteratoren und Closures][s11], [*Kommaliste Beispiel*][m3] | tbd | tbd |
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
@@ -41,6 +42,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 
 [m1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tree.rs
 [m2]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/read.rs
+[m3]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/comma-list-iter.rs
 
 [t3]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet3
 [t4]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet4
