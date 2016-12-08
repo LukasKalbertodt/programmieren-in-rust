@@ -19,6 +19,6 @@ Euch ist ein Gerüst mit diversen Unittests gegeben. Die Testfälle erklären di
 
 - `is_palindrome()`: Testet ob ein gegebener String ein Palindrom ist.
 
-- `used_chars_count()`: Gibt die Anzahl der unterschiedlichen Zeichen im übergebenen String zurück. Whitespace-Zeichen sollen aber nicht mitgezählt werden. Ihr könnt hier auch gerne eine passende collection aus `std` benutzen...
+- `used_chars_count()`: Bekommt eine Slice von String-Slices übergeben und gibt die Anzahl der unterschiedlichen Zeichen in allen Strings zurück. Whitespace-Zeichen sollen aber nicht mitgezählt werden. Schaut euch hier den Unittest für Beispiele an. Ihr könnt hier auch gerne eine passende collection aus `std` benutzen... 
 
-- `greatest_subsequencial_sum()`: Bekommt ein Array von ganzen Zahlen gegeben und sucht nun das Subarray (die Slice), bei dem die Summe aller Zahlen am größten unter allen möglichen Subarrays ist.
+- `greatest_subsequencial_sum()`: Bekommt ein Array von ganzen Zahlen gegeben und sucht nun das Subarray (die Slice), bei dem die Summe aller Zahlen am größten unter allen möglichen Subarrays ist. *Tipp*: [Slices](https://doc.rust-lang.org/std/primitive.slice.html) definieren eine für diese Aufgabe *sehr* hilfreiche Methode. 
