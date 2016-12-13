@@ -25,7 +25,11 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 30.11. | [Generics und Traits][s11], [*Generic `read` Beispiel*][m2] | [YouTube](https://www.youtube.com/watch?v=QUWfNqC-7nI) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=2c961a8f-e86e-4335-9a6f-90e8a6d435f5) |
 | 05.12. | [*Nachbesprechung Aufgaben*][t6], [Iteratoren und Closures][s12] | [YouTube](https://youtu.be/YnYKzpmMv40) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=e4db0cac-c233-4ae7-9c62-5cd1d6e2ab16) |
 | 07.12. | [Iteratoren und Closures][s12], [*Kommaliste Beispiel*][m3] | [YouTube](https://www.youtube.com/watch?v=Ku0001U4o9A) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=5c64074c-80ff-40ce-84ee-5dc4cb349ff5) |
-| 12.12. | [`try!` und `?` (Error Handling)][s9], [Closures][s12], [Themenideen Abschlussprojekt][m4] | [YouTube](https://www.youtube.com/watch?v=-tc0tHWuJm8) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=7da62492-0c14-41e5-b9a5-ad00dfece221) |
+| 12.12. | [`try!` und `?` (Error Handling)][s9], [Closures][s12], [*Themenideen Abschlussprojekt*][m4] | [YouTube](https://www.youtube.com/watch?v=-tc0tHWuJm8) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=7da62492-0c14-41e5-b9a5-ad00dfece221) |
+| 14.12. | *Kekse und Coding an "Advent of Code"* | - | - |
+| | | | |
+| 02.01. | **Fällt aus** | - | - |
+| 04.01. | tbd | tbd | tbd |
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
