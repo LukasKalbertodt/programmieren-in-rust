@@ -29,7 +29,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 14.12. | *Kekse und Coding ("Advent of Code")* | - | - |
 | | | | |
 | 02.01. | **Fällt aus** | - | - |
-| 04.01. | tbd | tbd | tbd |
+| 04.01. | [*Blödsinn*][b1], [*Nachbesprechung Aufgaben*][t8], [Makros][s13] | [YouTube](https://youtu.be/nPF-0zE5i9Q) | tbd |
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
@@ -45,6 +45,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [s10]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/10-Module-Crates-Cargo.pdf
 [s11]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/11-Generic-Traits.pdf
 [s12]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/12-Iterators-Closures.pdf
+[s13]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/13-Makros.pdf
 
 [m1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tree.rs
 [m2]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/read.rs
@@ -54,3 +55,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [t3]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet3
 [t4]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet4
 [t6]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet6
+[t8]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet8
+
+[b0]: http://i.imgur.com/9g5gebP.jpg
+[b1]: https://www.youtube.com/watch?v=d8q5C7UalZw&list=PL5YlUpv9iiO0WsosBlAZfL64BBCALECkW
