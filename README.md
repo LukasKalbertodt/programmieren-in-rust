@@ -29,8 +29,8 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 14.12. | *Kekse und Coding ("Advent of Code")* | - | - |
 | | | | |
 | 02.01. | **Fällt aus** | - | - |
-| 04.01. | [*Blödsinn*][b1], [*Nachbesprechung Aufgaben*][t8], [Makros][s13] | [YouTube](https://youtu.be/nPF-0zE5i9Q) | tbd |
-| 09.01. | [*Nachbesprechung Aufgaben*][t9], [Deref und Diverses][s14], [Low Level][s15] | [YouTube](https://youtu.be/TdJKs_Dq2Cs) | tbd |
+| 04.01. | [*Blödsinn*][b1], [*Nachbesprechung Aufgaben*][t8], [Makros][s13] | [YouTube](https://youtu.be/nPF-0zE5i9Q) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=8f7ff3e0-389d-4c98-82ac-5d708b4a1aaa) |
+| 09.01. | [*Nachbesprechung Aufgaben*][t9], [Deref und Diverses][s14], [Low Level][s15] | [YouTube](https://youtu.be/TdJKs_Dq2Cs) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=8f7ff3e0-389d-4c98-82ac-5d708b4a1aaa) |
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
