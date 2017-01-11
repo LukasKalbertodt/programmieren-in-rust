@@ -31,6 +31,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 02.01. | **Fällt aus** | - | - |
 | 04.01. | [*Blödsinn*][b1], [*Nachbesprechung Aufgaben*][t8], [Makros][s13] | [YouTube](https://youtu.be/nPF-0zE5i9Q) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=8f7ff3e0-389d-4c98-82ac-5d708b4a1aaa) |
 | 09.01. | [*Nachbesprechung Aufgaben*][t9], [Deref und Diverses][s14], [Low Level][s15] | [YouTube](https://youtu.be/TdJKs_Dq2Cs) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=8f7ff3e0-389d-4c98-82ac-5d708b4a1aaa) |
+| 09.01. | [Stack und Heap (Low Level)][s15] | [YouTube](https://youtu.be/Unda8t9cxw8) | tbd |
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
@@ -48,7 +49,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [s12]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/12-Iterators-Closures.pdf
 [s13]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/13-Makros.pdf
 [s14]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/14-Deref-und-Diverses.pdf
-[s15]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/15-Low-Level-unvollst%C3%A4ndig.pdf
+[s15]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/15-Low-Level.pdf
 
 [m1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tree.rs
 [m2]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/read.rs
