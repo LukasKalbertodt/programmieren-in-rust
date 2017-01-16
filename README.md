@@ -31,7 +31,8 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 02.01. | **Fällt aus** | - | - |
 | 04.01. | [*Blödsinn*][b1], [*Nachbesprechung Aufgaben*][t8], [Makros][s13] | [YouTube](https://youtu.be/nPF-0zE5i9Q) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=8f7ff3e0-389d-4c98-82ac-5d708b4a1aaa) |
 | 09.01. | [*Nachbesprechung Aufgaben*][t9], [Deref und Diverses][s14], [Low Level][s15] | [YouTube](https://youtu.be/TdJKs_Dq2Cs) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=8f7ff3e0-389d-4c98-82ac-5d708b4a1aaa) |
-| 09.01. | [Stack und Heap (Low Level)][s15] | [YouTube](https://youtu.be/Unda8t9cxw8) | tbd |
+| 11.01. | [Stack und Heap (Low Level)][s15] | [YouTube](https://youtu.be/Unda8t9cxw8) | tbd |
+| 16.01. | [*Nachbesprechung Aufgaben*][t10], [Trait Objects, Drop, Smartpointer][s16] | [YouTube](https://youtu.be/vjQ7qx6RcRY) | tbd |
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
@@ -50,6 +51,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [s13]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/13-Makros.pdf
 [s14]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/14-Deref-und-Diverses.pdf
 [s15]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/15-Low-Level.pdf
+[s16]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/16-TraitObjects-Smartpointer-unvollst%C3%A4ndig.pdf
 
 [m1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tree.rs
 [m2]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/read.rs
@@ -61,6 +63,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [t6]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet6
 [t8]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet8
 [t9]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet9
+[t10]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet10
 
 [b0]: http://i.imgur.com/9g5gebP.jpg
 [b1]: https://www.youtube.com/watch?v=d8q5C7UalZw&list=PL5YlUpv9iiO0WsosBlAZfL64BBCALECkW
