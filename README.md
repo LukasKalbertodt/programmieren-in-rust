@@ -33,6 +33,8 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 09.01. | [*Nachbesprechung Aufgaben*][t9], [Deref und Diverses][s14], [Low Level][s15] | [YouTube](https://youtu.be/TdJKs_Dq2Cs) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=8f7ff3e0-389d-4c98-82ac-5d708b4a1aaa) |
 | 11.01. | [Stack und Heap (Low Level)][s15] | [YouTube](https://youtu.be/Unda8t9cxw8) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=31d04ddc-80a3-4344-a2c4-b4a0316f2e3a) |
 | 16.01. | [*Nachbesprechung Aufgaben*][t10], [Trait Objects, Drop, Smartpointer][s16] | [YouTube](https://youtu.be/vjQ7qx6RcRY) | tbd |
+| 18.01. | *Informationen Abschlussprojekt*, [Interior Mutability, GC vs. RAII][s16] | [YouTube](https://www.youtube.com/watch?v=1rTtz7qHW68) | tbd |
+
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
