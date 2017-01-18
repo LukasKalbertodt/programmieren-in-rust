@@ -53,7 +53,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [s13]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/13-Makros.pdf
 [s14]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/14-Deref-und-Diverses.pdf
 [s15]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/15-Low-Level.pdf
-[s16]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/16-TraitObjects-Smartpointer-unvollst%C3%A4ndig.pdf
+[s16]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/16-TraitObjects-Smartpointer-InteriorMutability-Drop-RAII.pdf
 
 [m1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tree.rs
 [m2]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/read.rs
