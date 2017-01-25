@@ -35,6 +35,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 16.01. | [*Nachbesprechung Aufgaben*][t10], [Trait Objects, Drop, Smartpointer][s16] | [YouTube](https://youtu.be/vjQ7qx6RcRY) | tbd |
 | 18.01. | *Informationen Abschlussprojekt*, [Interior Mutability, GC vs. RAII][s16] | [YouTube](https://www.youtube.com/watch?v=1rTtz7qHW68) | tbd |
 | 23.01. | [*Animal Beispiel*][m5], [*Tipps für Abschlussprojekt*][m6], [Lifetimes][s17] | [YouTube](https://youtu.be/1ND79YMDV54) | tbd |
+| 25.01. | [Lifetimes][s17], [Multithreading & Concurrency][s18] | [YouTube](https://youtu.be/RTCHFlGg5wQ) | tbd |
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
@@ -54,8 +55,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [s14]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/14-Deref-und-Diverses.pdf
 [s15]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/15-Low-Level.pdf
 [s16]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/16-TraitObjects-Smartpointer-InteriorMutability-Drop-RAII.pdf
-[s17]: 
-https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/17-Lifetimes-unvollst%C3%A4ndig.pdf
+[s17]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/17-Lifetimes.pdf
 
 [m1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tree.rs
 [m2]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/read.rs
