@@ -56,6 +56,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [s15]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/15-Low-Level.pdf
 [s16]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/16-TraitObjects-Smartpointer-InteriorMutability-Drop-RAII.pdf
 [s17]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/17-Lifetimes.pdf
+[s18]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/18-Concurrency-Multithreading-unvollst%C3%A4ndig.pdf
 
 [m1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tree.rs
 [m2]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/read.rs
