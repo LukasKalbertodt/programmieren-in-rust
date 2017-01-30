@@ -36,6 +36,9 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 18.01. | *Informationen Abschlussprojekt*, [Interior Mutability, GC vs. RAII][s16] | [YouTube](https://www.youtube.com/watch?v=1rTtz7qHW68) | tbd |
 | 23.01. | [*Animal Beispiel*][m5], [*Tipps für Abschlussprojekt*][m6], [Lifetimes][s17] | [YouTube](https://youtu.be/1ND79YMDV54) | tbd |
 | 25.01. | [Lifetimes][s17], [Multithreading & Concurrency][s18] | [YouTube](https://youtu.be/RTCHFlGg5wQ) | tbd |
+| 30.01. | *Organisatorisches*, [*Ferris*][m7], [Multithreading & Concurrency][s18] | [YouTube](https://youtu.be/hwoEtAnTuss) | tbd |
+
+
 
 
 [s0]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/00-Warum-Rust.pdf
@@ -56,7 +59,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [s15]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/15-Low-Level.pdf
 [s16]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/16-TraitObjects-Smartpointer-InteriorMutability-Drop-RAII.pdf
 [s17]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/17-Lifetimes.pdf
-[s18]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/18-Concurrency-Multithreading-unvollst%C3%A4ndig.pdf
+[s18]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/18-Concurrency-Multithreading.pdf
 
 [m1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tree.rs
 [m2]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/read.rs
@@ -64,6 +67,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [m4]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/Zusammenfassung-und-Abschlussprojekt.pdf
 [m5]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/animal.rs
 [m6]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tipps-abschlussprojekt.md
+[m7]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/ferris.jpg
 
 [t3]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet3
 [t4]: https://github.com/LukasKalbertodt/programmieren-in-rust/tree/master/aufgaben/sheet4
