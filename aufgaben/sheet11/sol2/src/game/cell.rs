@@ -8,11 +8,11 @@ pub enum Cell {
     Cross,
 }
 
-#[derive(Clone, Copy, Eq, PartialEq)]
 /// Represents the index of one cell on the board.
 ///
 /// They can be parsed from the string representation which looks like `"b1"`.
 /// The letter represents the column, the digit represents the row.
+#[derive(Clone, Copy, Eq, PartialEq)]
 pub struct CellId {
     /// This index is row-major.
     ///
