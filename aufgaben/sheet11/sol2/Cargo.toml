@@ -1,0 +1,9 @@
+[package]
+name = "ttt"
+version = "0.1.0"
+authors = ["Lukas Kalbertodt <lukas.kalbertodt@gmail.com>"]
+
+[dependencies]
+rand = "0.3.15"
+term-painter = "0.2.3"
+boolinator = "2.4.0"
