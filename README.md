@@ -37,6 +37,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 23.01. | [*Animal Beispiel*][m5], [*Tipps für Abschlussprojekt*][m6], [Lifetimes][s17] | [YouTube](https://youtu.be/1ND79YMDV54) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?cid=f4a7c0754b566ef1f43345adaecc98cf&id=cd0ead3a-6417-4119-9a82-0419024150e9) |
 | 25.01. | [Lifetimes][s17], [Multithreading & Concurrency][s18] | [YouTube](https://youtu.be/RTCHFlGg5wQ) | - |
 | 30.01. | *Organisatorisches*, [*Ferris*][m7], [Multithreading & Concurrency][s18] | [YouTube](https://youtu.be/hwoEtAnTuss) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?cid=f4a7c0754b566ef1f43345adaecc98cf&id=46fff460-84e6-4134-a77b-73e6bfad5f61) |
+| 01.02. | [Performance & Effizienz][s19] | [YouTube](https://www.youtube.com/watch?v=01HVacgLQO4) | tbd |
 
 
 
@@ -60,6 +61,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 [s16]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/16-TraitObjects-Smartpointer-InteriorMutability-Drop-RAII.pdf
 [s17]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/17-Lifetimes.pdf
 [s18]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/18-Concurrency-Multithreading.pdf
+[s19]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/slides/19-Performance-und-Effizienz.pdf
 
 [m1]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/tree.rs
 [m2]: https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/materialien/read.rs
