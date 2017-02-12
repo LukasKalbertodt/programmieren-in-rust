@@ -39,7 +39,7 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 | 30.01. | *Organisatorisches*, [*Ferris*][m7], [Multithreading & Concurrency][s18] | [YouTube](https://youtu.be/hwoEtAnTuss) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?cid=f4a7c0754b566ef1f43345adaecc98cf&id=46fff460-84e6-4134-a77b-73e6bfad5f61) |
 | 01.02. | [Performance & Effizienz][s19] | [YouTube](https://www.youtube.com/watch?v=01HVacgLQO4) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=84b2b573-e900-4692-bdab-7cea4fd8c332) |
 | 06.02. | [Rust Community & Open Source][s20] | [YouTube](https://youtu.be/mKE7j5TC-2Q) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=ba079eff-2e2b-49cb-9cc0-15138e1da23e) |
-| 08.02. | [Unsafe & FFI][s21] | [YouTube](https://youtu.be/5IJr7wn48_I) | tbd |
+| 08.02. | [Unsafe & FFI][s21] | [YouTube](https://youtu.be/5IJr7wn48_I) | [via OpenCast](https://video4.virtuos.uos.de/engage/theodul/ui/core.html?id=6603a519-d899-4c2b-ac25-a4143b7377fa) |
 
 
 
