@@ -1,0 +1,8 @@
+[package]
+name = "flip"
+version = "0.1.0"
+authors = ["Lukas Kalbertodt <lukas.kalbertodt@gmail.com>"]
+
+[dependencies]
+clap = "~2.20"
+rand = "0.3.15"
