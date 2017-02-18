@@ -41,8 +41,8 @@ Please note that some of those repositories lack English documentation.
     </tr>
     
     <tr>
-      <td><a href="https://github.com/NiklasPaulRothe/pir-Abschlussprojekt">Pokemon Battle Arena</a></td>
-      <td>Graphical application to experience fights from Pokemon games</td>
+      <td><a href="https://github.com/NiklasPaulRothe/pir-Abschlussprojekt">Pokémon Battle Arena</a></td>
+      <td>Graphical application to experience fights from Pokémon games</td>
       <td>Artur&nbsp;Kaul, Niklas&nbsp;Rothe, Matthias&nbsp;Thien, Luka&nbsp;Vukusic</td>
     </tr>
     
