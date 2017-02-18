@@ -2,6 +2,10 @@
 
 Deutsche Vorlesung über Rust an der Universität Osnabrück, Wintersemester 2016/17. In diesem Repository werden Slides und andere Materialien zur Vorlesung gesammelt.
 
+## Abschlussprojekte
+
+Eine Liste aller Abschlussprojekte befindet sich [hier (Englisch)](https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/projects.md).
+
 ## Vorlesungsaufzeichnungen
 
 Die Aufzeichnungen gibt es oft in zwei Versionen:
