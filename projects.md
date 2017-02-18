@@ -50,11 +50,24 @@ Please note that some of those repositories lack English documentation.
       <td><a href="https://github.com/akrimpenfort/pir-radiostation-analyser">radiostation-analyser</a></td>
       <td>Collect and analyze data about played songs from local radio stations</td>
       <td>Adrian&nbsp;Krimpenfort, Wilko&nbsp;Müller</td>
+    </tr>    
+    
+    <tr>
+      <td><a href="https://github.com/Christopher22/rust-dtmf">rust-dtmf</a></td>
+      <td>Encoder and decoder for DTMF (≈ old telephone <i>beep</i> sounds)</td>
+      <td>Christopher&nbsp;Gundler, Carmen&nbsp;Meixner</td>
+    </tr>
+        
+    <tr>
+      <td><a href="https://github.com/ArielMant0/RustChess">RustChess</a></td>
+      <td>A 3D chess game using the Vulkan API</td>
+      <td>Franziska&nbsp;Becker, René&nbsp;Warnking</td>
+    </tr>
+        
+    <tr>
+      <td><a href="https://github.com/vab9/pir-project2017">rustle-my-net</a></td>
+      <td>Experimental implementation of a basic neural network from scratch</td>
+      <td>Tom&nbsp;Schneider, Victor&nbsp;Brinkhege, Johann&nbsp;Arndt, Lukas&nbsp;Kalde </td>
     </tr>
   </tbody>
 </table>
-
-
-
-
-[radio]: https://github.com/akrimpenfort/pir-radiostation-analyser
