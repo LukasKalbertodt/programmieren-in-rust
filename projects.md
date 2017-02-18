@@ -1,16 +1,16 @@
 # Final Projects
 
 In order to successfully complete this course, small teams of students had to work on a small final project. 
-They had to work on the project for roughly five days and present it to everyone else in the end. 
+They had to work on the project for roughly five days and present it to everyone else at the end. 
 Here you can find a list of all resulting projects.
-Please note that some of those repositories lack English documentation. 
+Please note that some of these repositories lack English documentation. 
 
 <br />
 
 <table>
   <thead>
     <tr>
-      <th>Name</th>
+      <th width="22%">Name</th>
       <th>Description</th>
       <th width="30%">Authors</th>
     </tr>
