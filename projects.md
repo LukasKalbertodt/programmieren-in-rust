@@ -5,6 +5,7 @@ They had to work on the project for roughly five days and present it to everyone
 Here you can find a list of all resulting projects.
 Please note that some of those repositories lack English documentation. 
 
+<br />
 
 <table>
   <thead>
@@ -15,56 +16,40 @@ Please note that some of those repositories lack English documentation.
     </tr>
   <thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/SvantjeJung/battleship">battleship</a></td>
+      <td>Implementation of the game “battleship” (currently TUI only)</td>
+      <td>Tim&nbsp;Bohne, Svantje&nbsp;Jung, Famke&nbsp;Lamberti</td>
+    </tr>
     
+    <tr>
+      <td><a href="https://github.com/AndreasSchroeder/rust_game_project">Chicken Fight 3000 Ultimate Tournament</a></td>
+      <td>Action-adventure game about saving the world from evil chicken</td>
+      <td>Fabian&nbsp;Laumeyer, Eduard&nbsp;Rempel, Andreas&nbsp;Schröder, Nguyen&nbsp;Gia&nbsp;Bao&nbsp;Tran</td>
+    </tr>
     
     <tr>
       <td><a href="https://github.com/BenediktSchumacher/Film-O-Mat">Film-O-Mat</a></td>
       <td>Movie suggestions using data from IMDB</td>
-      <td>
-        <ul>
-          <li>Anna Sandor</li>
-          <li>Arno Stiefvater</li>
-          <li>Fabian Gutendorf</li>
-          <li>Benedikt Schumacher</li>
-        </ul>
-      </td>
+      <td>Fabian&nbsp;Gutendorf, Anna&nbsp;Sandor, Benedikt&nbsp;Schumacher, Arno&nbsp;Stiefvater</td>
     </tr>
     
     <tr>
       <td><a href="https://github.com/MMXVII">MMXVII</a></td>
       <td>Virtual machine and assembler for Knuth's processor architecture MMIX</td>
-      <td>
-        <ul>
-          <li>Janina Born</li>
-          <li>Babara Butz</li>
-          <li>Karoline Plum</li>
-          <li>Tobias Stolzmann</li>
-        </ul>
-      </td>
+      <td>Janina&nbsp;Born, Babara&nbsp;Butz, Karoline&nbsp;Plum, Tobias&nbsp;Stolzmann</td>
     </tr>
     
     <tr>
       <td><a href="https://github.com/NiklasPaulRothe/pir-Abschlussprojekt">Pokemon Battle Arena</a></td>
       <td>Graphical application to experience fights from Pokemon games</td>
-      <td>
-        <ul>
-          <li>Matthias Thien</li>
-          <li>Luka Vukusic</li>
-          <li>Artur Kaul</li>
-          <li>Niklas Rothe</li>
-        </ul>
-      </td>
+      <td>Artur&nbsp;Kaul, Niklas&nbsp;Rothe, Matthias&nbsp;Thien, Luka&nbsp;Vukusic</td>
     </tr>
     
     <tr>
       <td><a href="https://github.com/akrimpenfort/pir-radiostation-analyser">radiostation-analyser</a></td>
       <td>Collect and analyze data about played songs from local radio stations</td>
-      <td>
-        <ul>
-          <li>Adrian Krimpenfort</li>
-          <li>Wilko Müller</li>
-        </ul>
-      </td>
+      <td>Adrian&nbsp;Krimpenfort, Wilko&nbsp;Müller</td>
     </tr>
   </tbody>
 </table>
