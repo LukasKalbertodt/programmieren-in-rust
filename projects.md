@@ -57,6 +57,12 @@ Please note that some of these repositories lack English documentation.
       <td>Encoder and decoder for DTMF (≈ old telephone <i>beep</i> sounds)</td>
       <td>Christopher&nbsp;Gundler, Carmen&nbsp;Meixner</td>
     </tr>
+    
+    <tr>
+      <td><a href="https://github.com/lmeuser/rust-fortress">rust-fortress</a></td>
+      <td>A Dwarf Fortress like game</td>
+      <td>Nils&nbsp;Affing, Kristin&nbsp;Schmidt</td>
+    </tr>
         
     <tr>
       <td><a href="https://github.com/ArielMant0/RustChess">RustChess</a></td>
