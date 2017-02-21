@@ -37,7 +37,7 @@ Please note that some of these repositories lack English documentation.
     <tr>
       <td><a href="https://github.com/MMXVII">MMXVII</a></td>
       <td>Virtual machine and assembler for Knuth's processor architecture MMIX</td>
-      <td>Janina&nbsp;Born, Babara&nbsp;Butz, Karoline&nbsp;Plum, Tobias&nbsp;Stolzmann</td>
+      <td>Janina&nbsp;Born, Barbara&nbsp;Butz, Karoline&nbsp;Plum, Tobias&nbsp;Stolzmann</td>
     </tr>
     
     <tr>
