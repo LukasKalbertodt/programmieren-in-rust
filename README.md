@@ -87,3 +87,24 @@ Die Aufzeichnungen gibt es oft in zwei Versionen:
 
 [b0]: http://i.imgur.com/9g5gebP.jpg
 [b1]: https://www.youtube.com/watch?v=d8q5C7UalZw&list=PL5YlUpv9iiO0WsosBlAZfL64BBCALECkW
+
+
+## License
+
+### Code
+
+All code in this repository (including the code in the slides) is licensed under either of
+
+ * Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+ * MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+
+at your option.
+
+### Slides
+
+All non-code content in this repository (most notable the slides) are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+### Contribution
+
+Unless you explicitly state otherwise, any contribution intentionally submitted
+shall be licensed as above, without any additional terms or conditions.
