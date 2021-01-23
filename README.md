@@ -2,6 +2,8 @@
 
 Deutsche Vorlesung über Rust an der Universität Osnabrück, Wintersemester 2016/17. In diesem Repository werden Slides und andere Materialien zur Vorlesung gesammelt. Die **Ergebnisse der Evaluation** der Veranstaltung durch die Studenten sind [**hier**](https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/AuswertungEvaluation.pdf) einzusehen.
 
+> **Hinweis**: Inzwischen sind die Inhalte in diesem Repository leider etwas veraltet. Die Vorlesung und Aufgaben können immer noch gut genutzt werden, um Rust zu lernen und zu verstehen, allerdings wird nicht überall der modernste Rust Code gezeigt. Themen wie `async`, Edition 2018 und proc-macros werden leider gar nicht behandelt. Dieses Repository sollte also nicht als alleinige Quelle zum Rust-Lernen genutzt werden. Leider werde ich auch die Folien nicht mehr aktualisieren, da dies zu viel Aufwand für recht wenig Nutzen ist. 
+
 ## Abschlussprojekte
 
 Eine Liste aller Abschlussprojekte befindet sich [hier (Englisch)](https://github.com/LukasKalbertodt/programmieren-in-rust/blob/master/projects.md).
